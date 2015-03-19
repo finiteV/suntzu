@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="chapters">
+        <item>始计第一</item>
+        <item>作战第二</item>
+        <item>谋攻第三</item>
+        <item>军形第四</item>
+        <item>兵势第五</item>
+        <item>虚实第六</item>
+        <item>军争第七</item>
+        <item>九变第八</item>
+        <item>行军第九</item>
+        <item>地形第十</item>
+        <item>九地第十一</item>
+        <item>火攻第十二</item>
+        <item>用间第十三</item>
+    </string-array>
+</resources>

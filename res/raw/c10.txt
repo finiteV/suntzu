@@ -1,0 +1,95 @@
+﻿ X. Terrain 
+
+孙子曰：地形有通者、有挂者、有支者、有隘者、有险者、有远者。 
+Sun Tzu said: We may distinguish six kinds of terrain, to wit: (1) Accessible ground; (2) entangling[使混乱] ground; (3) temporizing[拖延] ground; (4) narrow passes; (5) precipitous heights; (6) positions at a great distance from the enemy. 
+
+我可以往，彼可以来，曰通。   
+Ground which can be freely traversed by both sides is called accessible. 
+
+通形者，先居高阳，利粮道，以战则利。   
+With regard to ground of this nature, be before the enemy in occupying  the raised and sunny spots, and carefully guard your line of supplies. Then you will be able to fight with advantage. 
+
+可以往，难以返，曰挂。   
+Ground which can be abandoned but is hard to re-occupy is called entangling. 
+
+挂形者，敌无备，出而胜之，敌若有备，出而不胜，难以返，不利。 
+From a position of this sort, if the enemy is unprepared, you may sally[突围] forth and defeat him. But if the enemy is prepared for your coming, and you fail to defeat him, then, return being impossible, disaster will ensue. 
+
+我出而不利，彼出而不利，曰支。   
+When the position is such that neither side will gain by making the first move, it is called temporizing ground. 
+
+支形者，敌虽利我，我无出也，引而去之，令敌半出而击之利。  
+In a position of this sort, even though the enemy should offer us an attractive bait, it will be advisable not to stir[突围] forth, but rather to retreat, thus enticing[引诱] the enemy in his turn; then, when part of his army has come out, we may deliver our attack with advantage. 
+
+隘形者，我先居之，必盈之以待敌。   
+With regard to narrow passes, if you can occupy them first, let them be  strongly garrisoned[守卫] and await the advent[到来] of the enemy. 
+
+若敌先居之，盈而勿从，不盈而从之。   
+Should the army forestall you in occupying a pass, do not go after him if the pass is fully garrisoned, but only if it is weakly garrisoned. 
+
+险形者，我先居之，必居高阳以待敌；   
+With regard to precipitous heights, if you are beforehand with your adversary, you should occupy the raised and sunny spots, and there wait for him to come up. 
+
+若敌先居之，引而去之，勿从也。   
+If the enemy has occupied them before you, do not follow him, but retreat and try to entice him away. 
+
+远形者，势均难以挑战，战而不利。   
+If you are situated at a great distance from the enemy, and the strength of the two armies is equal, it is not easy to provoke a battle, and fighting will be to your disadvantage. 
+
+凡此六者，地之道也，将之至任，不可不察也。   
+These six are the principles connected with Earth. The general who has attained a responsible post must be careful to study them. 
+
+凡兵有走者、有驰者、有陷者、有崩者、有乱者、有北者。凡此六者，非天地之灾，将之过也。   
+Now an army is exposed to six several calamities, not arising from natural causes, but from faults for which the general is responsible. These are: (1) Flight[逃走]; (2) insubordination[不顺从的]; (3) collapse; (4) ruin; (5) disorganization; (6) rout[溃败]. 
+
+夫势均，以一击十，曰走；   
+Other conditions being equal, if one force is hurled[投掷] against another ten times its size, the result will be the flight of the former. 
+
+卒强吏弱，曰驰；吏强卒弱，曰陷；   
+When the common soldiers are too strong and their officers too weak, the result is insubordination. When the officers are too strong and the common soldiers too weak, the result is collapse. 
+
+大吏怒而不服，遇敌怼而自战，将不知其能，曰崩；   
+When the higher officers are angry and insubordinate, and on meeting the enemy give battle on their own account from a feeling of resentment, before the commander-in-chief can tell whether or no he is in a position
+to fight, the result is ruin. 
+
+将弱不严，教道不明，吏卒无常，陈兵纵横，曰乱；   
+When the general is weak and without authority; when his orders are not clear and distinct; when there are no fixes duties assigned to officers and men, and the ranks are formed in a slovenly[懒散的人] haphazard[随便的] manner, the result is utter disorganization. 
+
+将不能料敌，以少合众，以弱击强，兵无选锋，曰北。   
+When a general, unable to estimate the enemy's strength, allows an inferior force to engage a larger one, or hurls a weak detachment against a powerful one, and neglects to place picked soldiers in the front rank[队列], the result must be rout. 
+
+凡此六者，败之道也，将之至任，不可不察也。   
+These are six ways of courting defeat, which must be carefully noted by the general who has attained a responsible post. 
+
+夫地形者，兵之助也。料敌制胜，计险隘远近，上将之道也。   
+The natural formation of the country is the soldier's best ally; but a  power of estimating the adversary, of controlling the forces of victory, and of shrewdly[精明的] calculating difficulties, dangers and distances, constitutes the test of a great general 
+
+知此而用战者必胜，不知此而用战者必败。   
+He who knows these things, and in fighting puts his knowledge into practice, will win his battles. He who knows them not, nor practices them, will surely be defeated. 
+
+故战道必胜，主曰无战，必战可也；战道不胜，主曰必战，无战可也。 
+If fighting is sure to result in victory, then you must fight, even though the ruler forbid it; if fighting will not result in victory, then you must not fight even at the ruler's bidding[叫牌]. 
+
+故进不求名，退不避罪，唯民是保，而利于主，国之宝也。   
+The general who advances without coveting[垂涎] fame and retreats without fearing disgrace, whose only thought is to protect his country and do good service for his sovereign, is the jewel of the kingdom. 
+
+视卒如婴儿，故可以与之赴深溪；视卒如爱子，故可与之俱死。   
+Regard your soldiers as your children, and they will follow you into the deepest valleys; look upon them as your own beloved sons, and they will stand by you even unto death. 
+
+厚而不能使，爱而不能令，乱而不能治，譬若骄子，不可用也。   
+If, however, you are indulgent[放纵的], but unable to make your authority felt; kind-hearted, but unable to enforce your commands; and incapable, moreover, of quelling disorder: then your soldiers must be likened to spoilt children they are useless for any practical purpose. 
+
+知吾卒之可以击，而不知敌之不可击，胜之半也；   
+If we know that our own men are in a condition to attack, but are unaware that the enemy is not open to attack, we have gone only halfway towards victory. 
+
+知敌之可击，而不知吾卒之不可以击，胜之半也；   
+If we know that the enemy is open to attack, but are unaware that our own men are not in a condition to attack, we have gone only halfway towards victory. 
+
+知敌之可击，知吾卒之可以击，而不知地形之不可以战，胜之半也。 
+If we know that the enemy is open to attack, and also know that our men are in a condition to attack, but are unaware that the nature of the ground makes fighting impracticable, we have still gone only halfway towards victory. 
+
+故知兵者，动而不迷，举而不穷。   
+Hence the experienced soldier, once in motion, is never bewildered[使不知所措]; once he has broken camp, he is never at a loss. 
+
+故曰：知彼知己，胜乃不殆；知天知地，胜乃可全。   
+Hence the saying: If you know the enemy and know yourself, your victory will not stand in doubt; if you know Heaven and know Earth, you may make your victory complete.   
